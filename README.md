@@ -28,7 +28,7 @@ sprawdzenia danych (etap wdrożeniowy). Pobrane dane są zapisywane wpliku
 Może nawet kilka różnych aplikacji (wykresy wielu parametrów, mapa itd.).
 
 
-## CEL
+## Cel
 
 Utworzenie modelu prognoz Jakości Powietrza zgodnie z przykładem
 [bike_predict](https://github.com/sol-eng/bike_predict). Wiecje można przeczytać

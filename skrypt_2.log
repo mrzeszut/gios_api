@@ -1,0 +1,66 @@
+Ładowanie wymaganego pakietu: rjson
+Ładowanie wymaganego pakietu: tidyverse
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.2.1      ✔ stringr 1.4.1 
+✔ readr   2.1.3      ✔ forcats 0.5.2 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+Ładowanie wymaganego pakietu: lubridate
+
+Dołączanie pakietu: 'lubridate'
+
+Następujące obiekty zostały zakryte z 'package:base':
+
+    date, intersect, setdiff, union
+
+[1] "2022-11-03 02:32:49 CET"
+          used (Mb) gc trigger  (Mb) max used  (Mb)
+Ncells 1009529 54.0    2035861 108.8  2035861 108.8
+Vcells 1653998 12.7    8388608  64.0  4564178  34.9
+Ładowanie wymaganego pakietu: rjson
+Ładowanie wymaganego pakietu: tidyverse
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.2.1      ✔ stringr 1.4.1 
+✔ readr   2.1.3      ✔ forcats 0.5.2 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+Ładowanie wymaganego pakietu: lubridate
+
+Dołączanie pakietu: 'lubridate'
+
+Następujące obiekty zostały zakryte z 'package:base':
+
+    date, intersect, setdiff, union
+
+[1] "2022-11-04 02:32:50 CET"
+          used (Mb) gc trigger  (Mb) max used  (Mb)
+Ncells 1009510 54.0    2037090 108.8  2037090 108.8
+Vcells 1653998 12.7    8388608  64.0  5646454  43.1
+Ładowanie wymaganego pakietu: rjson
+Ładowanie wymaganego pakietu: tidyverse
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.2.1      ✔ stringr 1.4.1 
+✔ readr   2.1.3      ✔ forcats 0.5.2 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+Ładowanie wymaganego pakietu: lubridate
+
+Dołączanie pakietu: 'lubridate'
+
+Następujące obiekty zostały zakryte z 'package:base':
+
+    date, intersect, setdiff, union
+
+[1] "2022-11-05 02:32:41 CET"
+          used (Mb) gc trigger  (Mb) max used  (Mb)
+Ncells 1010831 54.0    2043350 109.2  2043350 109.2
+Vcells 1662851 12.7    8388608  64.0  5347343  40.8
