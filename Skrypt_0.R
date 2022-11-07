@@ -13,10 +13,11 @@ skrypt_air <- "D:\\qsync\\R\\R_API\\gios_api\\skrypt_2.R"
 taskscheduler_create(taskname = "gios_api_import", 
                      rscript = skrypt_air,
                      schedule = "DAILY", 
-                     starttime = "04:50",
+                     starttime = format(Sys.time(), "%H:%M"),
                      startdate = format(Sys.time(), "%d/%m/%Y"))
 
 # Proces uruchomiony, na dzień 03.11.2022
+# starttime = "04:50",
 
 # Zatrzymaj !!!
 
