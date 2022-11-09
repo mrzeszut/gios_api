@@ -6,6 +6,7 @@ if (!require(rjson))     { install.packages("rjson")     ; library(rjson)     }
 if (!require(tidyverse)) { install.packages("tidyverse") ; library(tidyverse) }
 if (!require(lubridate)) { install.packages("lubridate") ; library(lubridate) }
 
+a <- Sys.time() ; a
 # ------------------------------------------------------------------------#
 # PODSTAWOWE --------------------------------------------------------------
 # ------------------------------------------------------------------------#
@@ -37,6 +38,7 @@ load(file = paste0(path_data, "metadane_api_gios.rdata"))   # Metadane skrypt 1
 
 id_sensor <- metadane %>% unnest(data) %>% distinct(id_sensor) %>% pull()
 
+
 url <- "https://api.gios.gov.pl/pjp-api/rest/data/getData/" # ADRES API 
 
 # ------------------------------------------------------------------------#
@@ -59,20 +61,13 @@ out <-
                unnest(data) %>%              # Dodajemy id do identyfikacji
                filter(id_sensor == .x) %>%
                first() %>%
-               .[[1]])
-  ) %>%                                        # Zmiana ukłądu danych
-  pivot_wider(names_from = key,
-              values_from = value) %>%         # Konwersja daty z local to GMT
-  mutate(date = convert_to_gmt(date))
+               .[[1]],
+             id_sensor = .x)
+  ) %>% 
+  mutate(date = convert_to_gmt(date)) %>% 
+  na.omit()
 
 # Usuwamy ostatni rekrd danych, ponieważ lubi być pusty. 
-
-rm_date <- out$date %>% max()
-
-out <- 
-out %>% 
-  filter(!(date %in% c(rm_date, rm_date-3600))) 
-
 
 # ------------------------------------------------------------------------#
 # Zapisywanie -------------------------------------------------------------
@@ -91,20 +86,20 @@ write.csv(out,
 # Baza danych -------------------------------------------------------------
 # ------------------------------------------------------------------------#
 
-
 # Laczenie, usuwanie podwojnych wierszy, 
 
-load(file = paste0(path_data, "data_air.rdata"))
+load(file = paste0(path_data, "data_air_1.rdata"))
 
 data_air <- bind_rows(data_air, out)
 
 data_air <- data_air[data_air %>% duplicated() %>% !.,]
 
-save(data_air, file = paste0(path_data, "data_air.rdata"))
+save(data_air, file = paste0(path_data, "data_air_1.rdata"))
 
 # END 
 
-Sys.time() 
+b <- Sys.time() ; b 
+a-b
 
-rm(out, data_air, path_data, id_sensor, url, convert_to_gmt, metadane, null_to_na_recurse)
+rm(out, data_air, path_data, id_sensor, url, convert_to_gmt, metadane, null_to_na_recurse, a, b)
 gc()
