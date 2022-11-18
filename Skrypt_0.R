@@ -16,6 +16,9 @@ taskscheduler_create(taskname = "gios_api_import",
                      starttime = format(Sys.time() + 20, "%H:%M:%OS"),
                      startdate = format(Sys.time(), "%d/%m/%Y"))
 
+
+# komentarz
+
 # Proces uruchomiony, na dzień 03.11.2022
 # starttime = "04:50",
 
