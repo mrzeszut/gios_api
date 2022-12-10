@@ -34,9 +34,6 @@ out <-
   mutate(date = convert_to_gmt(date)) %>% 
   na.omit()
 
-
-
-
 metadane %>% unnest(data) %>% filter(id == 117)
 
 # id i idsensor - nie aktualizuje się, trzeba dodac chyba dwa numery, by mieć pewność. hmn 

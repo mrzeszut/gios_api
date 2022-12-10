@@ -11,7 +11,7 @@ a <- Sys.time() ; a
 # PODSTAWOWE --------------------------------------------------------------
 # ------------------------------------------------------------------------#
 
-path_data <- "D:/qsync/R/R_API/gios_api/"
+path_data <- "D:/Qnap/R/R_API/gios_api/"
 
 # Funkcja konwersji daty z lokalnego czasu na GMT
 
