@@ -9,6 +9,21 @@ data_air %>%
   summarise(n = n())
 
 
+test1 <-
+  data_air %>%
+  mutate(dd = lubridate::day(date),
+         mm = lubridate::month(date)) %>%
+  filter(id == 459, key == "SO2")
+  
+
+stanowiska
+
+
+11
+7
+SO2
+48
+
 
 test_2 <- 
 data_air %>% 

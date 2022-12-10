@@ -1,6 +1,3 @@
-# ------------------------------------------------------------------------#
-# Pakiety -----------------------------------------------------------------
-# ------------------------------------------------------------------------#
 
 if (!require(rjson))     { install.packages("rjson")     ; library(rjson)     }
 if (!require(tidyverse)) { install.packages("tidyverse") ; library(tidyverse) }
@@ -30,6 +27,7 @@ convert_to_gmt <- function(x) {
   return(out)
 }
 
+
 # ------------------------------------------------------------------------#
 # Metadane ----------------------------------------------------------------
 # ------------------------------------------------------------------------#
@@ -41,14 +39,31 @@ id_sensor <- metadane %>% unnest(data) %>% distinct(id_sensor) %>% pull()
 
 url <- "https://api.gios.gov.pl/pjp-api/rest/data/getData/" # ADRES API 
 
-# ------------------------------------------------------------------------#
 # Wczytywanie -------------------------------------------------------------
-# ------------------------------------------------------------------------#
+.x =id_sensor[100]
 
-# Sys.getlocale() %>% separate(sep = ";")
-# strsplit(Sys.getlocale(), split = ";") %>% as_vector()
 
-# Dane są zapisywane w UTC+00
+out1
+fromJSON(file = paste0(url, .x)) %>%     # import API
+  as_tibble(.,
+            validate = F) %>%
+  unnest_wider(values) 
+
+
+
+%>%
+  mutate(id = metadane %>%
+           unnest(data) %>%              # Dodajemy id do identyfikacji
+           filter(id_sensor == .x) %>%
+           first() %>%
+           .[[1]],
+         id_sensor = .x)
+) %>% 
+  mutate(date = convert_to_gmt(date)) %>% 
+  na.omit()
+
+
+
 
 out <-
   id_sensor %>%                                # Wczytanie wielu plików
@@ -56,7 +71,11 @@ out <-
     ~ fromJSON(file = paste0(url, .x)) %>%     # import API
       as_tibble(.,
                 validate = F) %>%
-      unnest_wider(values) %>%
+      unnest_wider(values)) 
+    
+    
+    
+    %>%
       mutate(id = metadane %>%
                unnest(data) %>%              # Dodajemy id do identyfikacji
                filter(id_sensor == .x) %>%
@@ -65,41 +84,5 @@ out <-
              id_sensor = .x)
   ) %>% 
   mutate(date = convert_to_gmt(date)) %>% 
-  na.omit() %>% select(id, id_sensor, key, date, value)
+  na.omit()
 
-# Usuwamy ostatni rekrd danych, ponieważ lubi być pusty. 
-
-# ------------------------------------------------------------------------#
-# Zapisywanie -------------------------------------------------------------
-# ------------------------------------------------------------------------#
-
-write.csv(out,
-          row.names = F,
-          file = paste0(
-            path_data,
-            "csv_arh/",
-            format(Sys.time(), "%Y_%m_%d_%H_%M"),
-            ".csv"
-          ))
-
-# ------------------------------------------------------------------------#
-# Baza danych -------------------------------------------------------------
-# ------------------------------------------------------------------------#
-
-# Laczenie, usuwanie podwojnych wierszy, 
-
-load(file = paste0(path_data, "data_air_1.rdata"))
-
-data_air <- bind_rows(data_air, out)
-
-data_air <- data_air[data_air %>% duplicated() %>% !.,]
-
-save(data_air, file = paste0(path_data, "data_air_1.rdata"))
-
-# END 
-
-b <- Sys.time() ; b 
-a-b
-
-rm(out, data_air, path_data, id_sensor, url, convert_to_gmt, metadane, null_to_na_recurse, a, b)
-gc()
