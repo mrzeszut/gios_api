@@ -8,9 +8,9 @@
 # taskscheduleR::taskschedulerAddin()
 
 library(taskscheduleR)
-skrypt_air <- "D:\\qsync\\R\\R_API\\gios_api\\skrypt_2.R"
+skrypt_air <- "D:\\Qnap\\R\\R_API\\gios_api\\skrypt_2.R"
 
-taskscheduler_create(taskname = "gios_api_import", 
+taskscheduler_create(taskname = "gios_api", 
                      rscript = skrypt_air,
                      schedule = "HOURLY", 
                      starttime = format(Sys.time() + 20, "%H:%M:%OS"),
@@ -26,6 +26,6 @@ taskscheduler_create(taskname = "gios_api_import",
 
 # system.file("extdata", "helloworld.R", package = "taskscheduleR")
 
-# taskscheduleR::taskscheduler_stop(taskname = "gios_api_import")
+# taskscheduleR::taskscheduler_stop(taskname = "gios_api")
                
-# taskscheduleR::taskscheduler_delete(taskname = "gios_api_import")
+# taskscheduleR::taskscheduler_delete(taskname = "gios_api")

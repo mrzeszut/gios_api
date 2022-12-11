@@ -1,808 +1,112 @@
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-03 02:32:49 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1009529 54.0    2035861 108.8  2035861 108.8
-Vcells 1653998 12.7    8388608  64.0  4564178  34.9
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-04 02:32:50 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1009510 54.0    2037090 108.8  2037090 108.8
-Vcells 1653998 12.7    8388608  64.0  5646454  43.1
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-05 02:32:41 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1010831 54.0    2043350 109.2  2043350 109.2
-Vcells 1662851 12.7    8388608  64.0  5347343  40.8
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-07 12:12:25 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1010831 54.0    2044990 109.3  2044990 109.3
-Vcells 1662851 12.7    8388608  64.0  5482618  41.9
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-07 13:12:48 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1010831 54.0    2044901 109.3  2044901 109.3
-Vcells 1662851 12.7    8388608  64.0  4792300  36.6
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-07 14:12:48 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1010831 54.0    2044901 109.3  2044901 109.3
-Vcells 1662851 12.7    8388608  64.0  4803968  36.7
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-07 15:12:39 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1010831 54.0    2041524 109.1  2041524 109.1
-Vcells 1662851 12.7    8388608  64.0  6401919  48.9
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-07 16:12:42 CET"
-          used (Mb) gc trigger (Mb) max used  (Mb)
-Ncells 1010831 54.0    2040387  109  2040387 109.0
-Vcells 1662851 12.7    8388608   64  6495483  49.6
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-07 17:12:46 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1010831 54.0    2044521 109.2  2044521 109.2
-Vcells 1662851 12.7    8388608  64.0  6762544  51.6
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-07 18:12:47 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1010831 54.0    2041998 109.1  2041998 109.1
-Vcells 1662851 12.7    8388608  64.0  6780536  51.8
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 10:12:50 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1010831 54.0    2041781 109.1  2041781 109.1
-Vcells 1662851 12.7    8388608  64.0  6355410  48.5
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 11:12:31 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1010831 54.0    2044110 109.2  2044110 109.2
-Vcells 1662851 12.7    8388608  64.0  6290578  48.0
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 12:12:50 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005341 53.7    2041898 109.1  2041898 109.1
-Vcells 1650450 12.6    8388608  64.0  8384621  64.0
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
 Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 13:27:41 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    2044684 109.2  2044684 109.2
-Vcells 1650437 12.6    8388608  64.0  8333407  63.6
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 14:27:30 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3178567 169.8  2042052 109.1
-Vcells 1650437 12.6    8388608  64.0  8288031  63.3
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 15:27:30 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3218390 171.9  2041458 109.1
-Vcells 1650437 12.6    8388608  64.0  8347613  63.7
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 16:27:38 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3195465 170.7  2089158 111.6
-Vcells 1650437 12.6    8388608  64.0  8368304  63.9
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 17:27:41 CET"
-          used (Mb) gc trigger (Mb) max used  (Mb)
-Ncells 1005335 53.7    3183140  170  2294174 122.6
-Vcells 1650437 12.6    8388608   64  8384603  64.0
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 18:27:35 CET"
-          used (Mb) gc trigger (Mb) max used (Mb)
-Ncells 1005335 53.7    3182511  170  2452392  131
-Vcells 1650437 12.6    8388608   64  8377436   64
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 19:27:33 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005314 53.7    3086880 164.9  3041178 162.5
-Vcells 1650437 12.6    8388608  64.0  8382842  64.0
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-08 20:27:49 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3204078 171.2  2635158 140.8
-Vcells 1650437 12.6    8388608  64.0  8381050  64.0
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 08:57:46 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3210278 171.5  2043081 109.2
-Vcells 1650437 12.6    8388608  64.0  8231086  62.8
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 09:57:43 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3177152 169.7  2885317 154.1
-Vcells 1650437 12.6    8388608  64.0  8368087  63.9
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 10:57:41 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3225677 172.3  2820346 150.7
-Vcells 1650437 12.6    8388608  64.0  8358843  63.8
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 11:57:29 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3177574 169.8  3177574 169.8
-Vcells 1650437 12.6    8388608  64.0  8294434  63.3
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 12:57:50 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3188325 170.3  3188325 170.3
-Vcells 1650437 12.6    8388608  64.0  8317714  63.5
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 13:57:26 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3174188 169.6  3174188 169.6
-Vcells 1650437 12.6    8388608  64.0  8265057  63.1
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 14:57:24 CET"
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1005335 53.7    3178282 169.8  3178282 169.8
-Vcells 1650437 12.6    8388608  64.0  8375913  64.0
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 15:55:03 CET"
-[1] "2022-11-09 15:57:19 CET"
-Time difference of -2.264383 mins
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1007610 53.9    3255295 173.9  2839704 151.7
-Vcells 1655614 12.7    8388608  64.0  8345049  63.7
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 16:55:02 CET"
-[1] "2022-11-09 16:57:15 CET"
-Time difference of -2.203837 mins
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1007630 53.9    3251291 173.7  3012152 160.9
-Vcells 1655614 12.7    8388608  64.0  8384798  64.0
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 17:55:03 CET"
-[1] "2022-11-09 17:57:18 CET"
-Time difference of -2.242903 mins
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1007630 53.9    3200001 170.9  3200001 170.9
-Vcells 1655614 12.7    8388608  64.0  8383525  64.0
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 18:55:03 CET"
-[1] "2022-11-09 18:57:26 CET"
-Time difference of -2.392658 mins
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1007630 53.9    3198107 170.8  3198107 170.8
-Vcells 1655614 12.7    8388608  64.0  8364018  63.9
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 19:55:03 CET"
-[1] "2022-11-09 19:57:18 CET"
-Time difference of -2.243072 mins
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1007630 53.9    3206072 171.3  3206072 171.3
-Vcells 1655614 12.7    8388608  64.0  8383692  64.0
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 20:55:03 CET"
-[1] "2022-11-09 20:57:33 CET"
-Time difference of -2.490886 mins
-          used (Mb) gc trigger (Mb) max used  (Mb)
-Ncells 1007630 53.9    3201495  171  3201495 171.0
-Vcells 1655614 12.7    8388608   64  8364017  63.9
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 21:55:05 CET"
-[1] "2022-11-09 21:57:33 CET"
-Time difference of -2.46715 mins
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1007630 53.9    3198564 170.9  3198564 170.9
-Vcells 1655614 12.7    8388608  64.0  8388182  64.0
-Ładowanie wymaganego pakietu: rjson
-Ładowanie wymaganego pakietu: tidyverse
-── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
-✔ tibble  3.1.8      ✔ dplyr   1.0.10
-✔ tidyr   1.2.1      ✔ stringr 1.4.1 
-✔ readr   2.1.3      ✔ forcats 0.5.2 
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-Ładowanie wymaganego pakietu: lubridate
-
-Dołączanie pakietu: 'lubridate'
-
-Następujące obiekty zostały zakryte z 'package:base':
-
-    date, intersect, setdiff, union
-
-[1] "2022-11-09 22:55:07 CET"
-[1] "2022-11-09 22:57:36 CET"
-Time difference of -2.485315 mins
-          used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1007610 53.9    3187357 170.3  3187357 170.3
-Vcells 1655614 12.7    8388608  64.0  8379969  64.0
+Ostrzeżenie w poleceniu 'install.packages("rjson")':
+  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
+Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
+  nie ma pakietu o nazwie 'rjson'
+Wykonywanie wstrzymane
