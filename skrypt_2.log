@@ -1,112 +1,143 @@
+[1] "2022-12-12 15:14:12 CET"
 Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Ładowanie wymaganego pakietu: tidyverse
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.4.0      ✔ purrr   0.3.5 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.2.1      ✔ stringr 1.5.0 
+✔ readr   2.1.3      ✔ forcats 0.5.2 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+Ładowanie wymaganego pakietu: lubridate
+Ładowanie wymaganego pakietu: timechange
+
+Dołączanie pakietu: 'lubridate'
+
+Następujące obiekty zostały zakryte z 'package:base':
+
+    date, intersect, setdiff, union
+
+Błąd w poleceniu 'file(con, "r")':
+  nie można otworzyć połączenia do 'https://api.gios.gov.pl/pjp-api/rest/data/getData/2373'
+Wywołania: %>% ... as_tibble -> fromJSON -> paste -> readLines -> file
 Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
+W poleceniu 'file(con, "r")':
+  nie można otworzyć adresu URL 'https://api.gios.gov.pl/pjp-api/rest/data/getData/2373': status HTTP '500 Internal Server Error'
 Wykonywanie wstrzymane
+[1] "2022-12-12 15:40:02 CET"
 Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
+Ładowanie wymaganego pakietu: tidyverse
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.4.0      ✔ purrr   0.3.5 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.2.1      ✔ stringr 1.5.0 
+✔ readr   2.1.3      ✔ forcats 0.5.2 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+Ładowanie wymaganego pakietu: lubridate
+Ładowanie wymaganego pakietu: timechange
+
+Dołączanie pakietu: 'lubridate'
+
+Następujące obiekty zostały zakryte z 'package:base':
+
+    date, intersect, setdiff, union
+
+Błąd w poleceniu 'file(con, "r")':
+  nie można otworzyć połączenia do 'https://api.gios.gov.pl/pjp-api/rest/data/getData/2370'
+Wywołania: %>% ... as_tibble -> fromJSON -> paste -> readLines -> file
 Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
+W poleceniu 'file(con, "r")':
+  nie można otworzyć adresu URL 'https://api.gios.gov.pl/pjp-api/rest/data/getData/2370': status HTTP '500 Internal Server Error'
 Wykonywanie wstrzymane
+[1] "2022-12-12 16:40:02 CET"
 Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
+Ładowanie wymaganego pakietu: tidyverse
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.4.0      ✔ purrr   0.3.5 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.2.1      ✔ stringr 1.5.0 
+✔ readr   2.1.3      ✔ forcats 0.5.2 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+Ładowanie wymaganego pakietu: lubridate
+Ładowanie wymaganego pakietu: timechange
+
+Dołączanie pakietu: 'lubridate'
+
+Następujące obiekty zostały zakryte z 'package:base':
+
+    date, intersect, setdiff, union
+
+[1] "2022-12-12 16:42:33 CET"
+BŁĄD: nie znaleziono obiektu 'a'
 Wykonywanie wstrzymane
+[1] "2022-12-12 17:42:01 CET"
 Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
+Ładowanie wymaganego pakietu: tidyverse
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.4.0      ✔ purrr   0.3.5 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.2.1      ✔ stringr 1.5.0 
+✔ readr   2.1.3      ✔ forcats 0.5.2 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+Ładowanie wymaganego pakietu: lubridate
+Ładowanie wymaganego pakietu: timechange
+
+Dołączanie pakietu: 'lubridate'
+
+Następujące obiekty zostały zakryte z 'package:base':
+
+    date, intersect, setdiff, union
+
+[1] "2022-12-12 17:44:32 CET"
+BŁĄD: nie znaleziono obiektu 'a'
 Wykonywanie wstrzymane
+[1] "2022-12-12 18:42:01 CET"
 Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
+Ładowanie wymaganego pakietu: tidyverse
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.4.0      ✔ purrr   0.3.5 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.2.1      ✔ stringr 1.5.0 
+✔ readr   2.1.3      ✔ forcats 0.5.2 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+Ładowanie wymaganego pakietu: lubridate
+Ładowanie wymaganego pakietu: timechange
+
+Dołączanie pakietu: 'lubridate'
+
+Następujące obiekty zostały zakryte z 'package:base':
+
+    date, intersect, setdiff, union
+
+[1] "2022-12-12 18:44:33 CET"
+BŁĄD: nie znaleziono obiektu 'a'
 Wykonywanie wstrzymane
+[1] "2022-12-12 19:20:01 CET"
 Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
-Wykonywanie wstrzymane
-Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
-Wykonywanie wstrzymane
-Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
-Wykonywanie wstrzymane
-Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
-Wykonywanie wstrzymane
-Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
-Wykonywanie wstrzymane
-Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
-Wykonywanie wstrzymane
-Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
-Wykonywanie wstrzymane
-Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
-Wykonywanie wstrzymane
-Ładowanie wymaganego pakietu: rjson
-Ostrzeżenie w poleceniu 'install.packages("rjson")':
-  'lib = "C:/Program Files/R/R-4.2.2/library"' nie jest zapisywalna
-Błąd w poleceniu 'install.packages("rjson")':nie można zainstalować pakietów
-Dodatkowo: Komunikat ostrzegawczy:
-W poleceniu 'library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE, ':
-  nie ma pakietu o nazwie 'rjson'
-Wykonywanie wstrzymane
+Ładowanie wymaganego pakietu: tidyverse
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+✔ ggplot2 3.4.0      ✔ purrr   0.3.5 
+✔ tibble  3.1.8      ✔ dplyr   1.0.10
+✔ tidyr   1.2.1      ✔ stringr 1.5.0 
+✔ readr   2.1.3      ✔ forcats 0.5.2 
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+Ładowanie wymaganego pakietu: lubridate
+Ładowanie wymaganego pakietu: timechange
+
+Dołączanie pakietu: 'lubridate'
+
+Następujące obiekty zostały zakryte z 'package:base':
+
+    date, intersect, setdiff, union
+

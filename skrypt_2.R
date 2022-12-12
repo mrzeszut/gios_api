@@ -1,17 +1,12 @@
 # ------------------------------------------------------------------------#
 # Pakiety -----------------------------------------------------------------
 # ------------------------------------------------------------------------#
-
-# if (!require(rjson))     { install.packages("rjson")     ; library(rjson)     }
-# if (!require(tidyverse)) { install.packages("tidyverse") ; library(tidyverse) }
-# if (!require(lubridate)) { install.packages("lubridate") ; library(lubridate) }
-
-library(tidyverse)
-library(lubridate)
-library(rjson)
-
-
 a <- Sys.time() ; a
+
+if (!require(rjson))     { install.packages("rjson")     ; library(rjson)     }
+if (!require(tidyverse)) { install.packages("tidyverse") ; library(tidyverse) }
+if (!require(lubridate)) { install.packages("lubridate") ; library(lubridate) }
+
 # ------------------------------------------------------------------------#
 # PODSTAWOWE --------------------------------------------------------------
 # ------------------------------------------------------------------------#
